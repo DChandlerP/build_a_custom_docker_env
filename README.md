@@ -1,6 +1,13 @@
-# Learn How To Build A Custom Docker Environment For Use On WashU's LSF Cluster
+# Custom Docker Image
 
-## Pre-Requisites
+This project was started as a custom Docker image for a tutorial that we'll make available.
 
-* A willingness to learn
-* Docker Installed on [Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/) or [Docker Desktop](docker.com/products/docker-desktop)
+We may be able to use this for Marcy's workshop as well and for the image where we bring in code mounted on storage1.
+Those will be hosted in separate branches.
+
+
+
+
+
+
+
